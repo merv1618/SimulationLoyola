@@ -1,0 +1,9 @@
+Package: ThatsOurIbex
+Type: Package
+Title: Letter generator
+Version: 1.0
+Date: 2021-11-15
+Author: Adam Sperber
+Maintainer: Greg Matthews <gmatthews1@luc.edu>
+Description: Generates letters
+License: What license is it under?
